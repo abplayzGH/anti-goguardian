@@ -14,3 +14,5 @@ https://chrome.google.com/webstore/detail/geogebra-classic/bnbaboaihhkjoaolfnfoa
 6. Click "for work"
 7. Finally scroll to the botom, click google
 8. Thats all, noted if you school also uses other web fiters it may not work
+
+Unfortunately my school block this... 
